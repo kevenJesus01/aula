@@ -30,8 +30,8 @@ print(len(linguagens_lista))
 
 
 dicionario = {
-    "Nome": "Matheus",
-    "Idade": 25,
+    "Nome": "Keven",
+    "Idade": 17,
     "Profissão": "Garoto do Programa"
 }
 
