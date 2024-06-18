@@ -1,6 +1,6 @@
-nome = "Paula"
-mês = "Janeiro"
+nome = "paula martinz"
+mes = "janeiro"
 valor = 500
 desconto = "10%"
-cupom = "PAULAÉ10"
-print ("Olá," , nome , "Em" , mês , "você realizou uma compra no valor de" , valor , "e ganhou um desconto de" , desconto , "em sua próxima compra.
+cupom = "paulaé10"
+print("Ola", nome , ". Em" , mes , "você realizou uma compra no valor de ",Valor , "e ganhou um desconto de",desconto , "em sua próxima compra. Use o cupom" , cupom)
