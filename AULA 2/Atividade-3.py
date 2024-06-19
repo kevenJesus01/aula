@@ -1,0 +1,11 @@
+print("VOCÊ ESTÁ PARTICIPARDO DA ROSSA PROPO TREINA JUNTO")
+
+presenca = int(input("Informe a presenca de usuário:"))
+
+if presenca == 21:
+      print("UHUU, AGORA VOCÊ PODE PRESENTEAR UM AMIGO OU AMIGA PARA TREINAR COM VOCÊ")
+            
+elif presenca < 21:
+      print("QUE BON VER VOCE DE VOLTA. A PARTIR DE AGORA INICIAMOS MAIS UMA CONTAGEM DE 21 DIAS PARA A PROMO TREINA JUNTO") 
+else:
+      print("VOCÊ JA PARTICIPOU DA CAMPANHA E JA TROUXE UM AMIGO")
